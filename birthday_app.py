@@ -32,7 +32,7 @@ elif menu == "📝 Send Wish":
     🌸 And make you **a source of joy and pride for your parents** always.
 
     🤲 **My heartfelt dua for you:**  
-    > “Ya Allah, keep his in Your protection, grant him barakah in his life, ease every difficulty for him, guide him to serve and respect his parents with love, and grant him success and honor in every field. Ameen.”
+     “Ya Allah, keep his in Your protection, grant him barakah in his life, ease every difficulty for him, guide him to serve and respect his parents with love, and grant him success and honor in every field. Ameen.”
 
     🕊️ *“May your days be bright, your heart always light,*  
     *May faith and kindness guide you day and night,*  
