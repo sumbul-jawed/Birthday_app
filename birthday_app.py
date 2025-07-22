@@ -9,7 +9,7 @@ menu = st.sidebar.radio("Choose a section:", ["🎈 Home", "📝 Send Wish", "�
 
 if menu == "🎈 Home":
     st.markdown("""
-        <h1 style='text-align: center; font-size: 60px; color: #4c076f; text-shadow: 2px 2px #f7d317; '>🎉 Happy Birthday Arsalan Ali 🎂</h1>
+        <h1 style='text-align: center; font-size: 60px; color: #4c076f; text-shadow: 2px 2px #ff8000; '>🎉 Happy Birthday Arsalan Ali 🎂</h1>
         <h2 style='text-align: center; color: #063970;'>From <span style='background-color: yellow; padding: 4px; border-radius: 5px;'>Sumbul Jawed</span></h2>
         <p style='text-align: center; font-size: 24px;'>Celebrating your special day on <span style='color: #FF4500; font-weight: bold;'>31 July</span> with love and prayers!</p>
     """, unsafe_allow_html=True)
